@@ -1,0 +1,19 @@
+# Archivos compilados e executáveis
+*.class
+bin/
+out/
+
+# Configurações de IDEs (IntelliJ, Eclipse, VS Code, NetBeans)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+/nbproject/private/
+/nbbuild/
+/dist/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
